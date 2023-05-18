@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: funds-loader
+  datasource:
+    url: jdbc:h2:mem:accounts_db;DB_CLOSE_DELAY=-1;
+    username: user
+    password: password
+    driverClassName: org.h2.Driver
+
+logging:
+  level:
+    root: INFO
+    org.ksever.fundsLoader: DEBUG
