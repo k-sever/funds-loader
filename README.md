@@ -1,4 +1,4 @@
-# Velocity Limiter
+# Funds Loader
 
 # Problem
 In finance, it's common for accounts to have so-called "velocity limits".
